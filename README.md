@@ -11,4 +11,4 @@ couldn 't presented because there isn t in the ASCII table that c uses
 
 --->Thus after you run the program a txt file will apeared in the file with the transformed array
 
---->The file with that contains the project has inside the json archive it is important to be at the same file the project and the json in order to run correctly. Thus run the program from the file that was when  you  donwloaded
+--->The file  that contains the project has inside the json archive it is important to be at the same file the project and the json in order to run correctly. Thus run the program from the file that was when  you  donwloaded
